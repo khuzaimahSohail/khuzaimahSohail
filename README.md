@@ -61,10 +61,10 @@ class Khuzaimah extends Developer {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuzaimahsohail&layout=compact&theme=radical&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuzaimahSohail&layout=compact&theme=radical&hide_border=true" width="60%" />
 </p>
 
-> *Note: swap `khuzaimahsohail` above with your actual GitHub username for the stats to render correctly.*
+
 
 ---
 
