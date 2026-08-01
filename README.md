@@ -55,10 +55,7 @@ class Khuzaimah extends Developer {
 
 ### 📊 GitHub Stats (a.k.a. Proof I Actually Code and Don't Just Watch Tutorials)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khuzaimahsohail&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khuzaimahsohail&theme=radical&hide_border=true" width="48%" />
-</p>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=khuzaimahsohail)](https://github.com/stats-organization/github-stats-extended)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuzaimahSohail&layout=compact&theme=radical&hide_border=true" width="60%" />
